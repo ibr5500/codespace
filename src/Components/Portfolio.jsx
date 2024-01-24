@@ -20,7 +20,7 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/austin.jpg";
-   const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with books and laptop";
 
 /**
  * Project list
